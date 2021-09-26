@@ -1,0 +1,4 @@
+2021-09-25 14:15:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERSON" non trouvée
+Table "PERSON" not found; SQL statement:
+select * from person [42102-197]
